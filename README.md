@@ -10,13 +10,13 @@ For example, let’s take an image of this site and try to transfer the styles f
 
 * Artisitic image
 <p align="center">
-  <img src="https://github.com/thiwankajayasiri/NST-2d-3d/blob/master/Emily_Carr_2-660x330.jpg" width="350" title="Chart-Selection">
+  <img src="https://github.com/thiwankajayasiri/NST-2d-3d/blob/master/Emily_Carr_2-660x330.jpg" width="450" title="Chart-Selection">
 </p>
 
 * Real world image
 
 <p align="center">
-  <img src="https://github.com/thiwankajayasiri/NST-2d-3d/blob/master/auckland-new-zealand-city-sunset_1591955741.jpg" width="350" title="Chart-Selection">
+  <img src="https://github.com/thiwankajayasiri/NST-2d-3d/blob/master/auckland-new-zealand-city-sunset_1591955741.jpg" width="450" title="Chart-Selection">
 </p>
 
 
