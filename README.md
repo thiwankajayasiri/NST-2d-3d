@@ -1,4 +1,4 @@
-# NST-2d-3d
+# Stereo vision neural algorithm to process large scale images to reconstruct artistic style images
 Neural Style Transfer  - 2d to 3d
 ## Intro
 
