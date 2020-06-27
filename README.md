@@ -19,5 +19,5 @@ For example, let’s take an image of this site and try to transfer the styles f
   <img src="https://github.com/thiwankajayasiri/NST-2d-3d/blob/master/auckland-new-zealand-city-sunset_1591955741.jpg" width="450" title="Chart-Selection">
 </p>
 
-
+Please refer to the project report for more infomration ![Abstract]("https://github.com/thiwankajayasiri/NST-2d-3d/blob/master/Computer%20Vision%20Research%20Article%20Draft%20-%20GTJ13_Thiwanka%20Jayasiri.pdf")
 
